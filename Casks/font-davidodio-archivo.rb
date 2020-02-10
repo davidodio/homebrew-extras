@@ -2,9 +2,9 @@ cask 'font-davidodio-archivo' do
   version :latest
   sha256 :no_check
   
-  url 'https://github.com/davidodio/homebrew-extras/blob/master/Fonts/Archivo.zip'
+  url 'https://www.omnibus-type.com/wp-content/uploads/Archivo.zip'
   name 'Archivo'
-  homepage 'https://www.google.com/fonts/specimen/Archivo'
+  homepage 'https://www.omnibus-type.com/fonts/archivo/'
 
   depends_on macos: '>= :sierra'
 
