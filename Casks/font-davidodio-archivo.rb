@@ -2,7 +2,7 @@ cask 'font-davidodio-archivo' do
   version :latest
   sha256 :no_check
 
-  url 'https://github.com/davidodio/homebrew-extras/blob/master/Fonts/archivo.zip'
+  url 'https://github.com/davidodio/homebrew-extras/blob/master/Fonts/Archivo.zip'
   name 'Archivo'
   homepage 'https://www.google.com/fonts/specimen/Archivo'
 
