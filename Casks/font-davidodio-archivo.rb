@@ -8,12 +8,12 @@ cask 'font-davidodio-archivo' do
 
   depends_on macos: '>= :sierra'
 
-  font 'Archivo-Bold.ttf'
-  font 'Archivo-BoldItalic.ttf'
-  font 'Archivo-Italic.ttf'
-  font 'Archivo-Medium.ttf'
-  font 'Archivo-MediumItalic.ttf'
-  font 'Archivo-Regular.ttf'
-  font 'Archivo-SemiBold.ttf'
-  font 'Archivo-SemiBoldItalic.ttf'
+  font 'Archivo/otf/Archivo-Bold.ttf'
+  font 'Archivo/otf/Archivo-BoldItalic.ttf'
+  font 'Archivo/otf/Archivo-Italic.ttf'
+  font 'Archivo/otf/Archivo-Medium.ttf'
+  font 'Archivo/otf/Archivo-MediumItalic.ttf'
+  font 'Archivo/otf/Archivo-Regular.ttf'
+  font 'Archivo/otf/Archivo-SemiBold.ttf'
+  font 'Archivo/otf/Archivo-SemiBoldItalic.ttf'
 end
