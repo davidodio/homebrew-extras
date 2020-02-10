@@ -10,4 +10,7 @@ Run once to add the tap
 	brew tap davidodio/extras
 ```
 
+1. Archivo
+
+[Archivo](https://fonts.google.com/specimen/Archivo) from Google Fonts.
 
